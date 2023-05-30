@@ -16,17 +16,3 @@
     margin-left: 25px;
 }
 
-@keyframes rotatecog{
-    from{
-        transform: none;
-    }
-    to{
-        transform: rotateZ(360deg);
-    
-    }
-}
-
-
-.screen-hearder__icons .fa-cog:hover{
-    animation: rotatecog 1s linear infinite;
-}

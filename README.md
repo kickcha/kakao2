@@ -1,3 +1,3 @@
 # Kokoa Clone 2021 Update
 
-HTML & CSS are so much fun!
+정식님 고맙읍니다!
